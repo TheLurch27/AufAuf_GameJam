@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 852ef476d82c17b47bd5e81f29c19bca
+guid: 03107e38ea61e0942a9e4c58477f5947
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 7574569593671782055
-    second: Ballon_0
+      213: -5196254248722744516
+    second: Ballon_3_Lifes_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -100,13 +100,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Ballon_0
+      name: Ballon_3_Lifes_0
       rect:
         serializedVersion: 2
-        x: 113
-        y: 34
-        width: 274
-        height: 432
+        x: 0
+        y: 0
+        width: 244
+        height: 470
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 7ae0845e9e64e1960800000000000000
-      internalID: 7574569593671782055
+      spriteID: c3b344eaa4233e7b0800000000000000
+      internalID: -5196254248722744516
       vertices: []
       indices: 
       edges: []
